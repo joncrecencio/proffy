@@ -1,0 +1,3 @@
+servidor: npm run dev
+
+banco: node src/database/db.js
